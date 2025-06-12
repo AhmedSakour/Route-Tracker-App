@@ -1,0 +1,1 @@
+class LocationServicesException implements Exception {}
